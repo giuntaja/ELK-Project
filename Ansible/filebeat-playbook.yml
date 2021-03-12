@@ -1,5 +1,5 @@
 ---
-- name: The Filebeat Playbook
+- name: Filebeat Playbook
   hosts: webservers
   become: yes
   tasks:
